@@ -335,4 +335,4 @@ Give a ⭐️ if this project helped you!
 
 ---
 
-Made with ❤️ by [Your Name](https://yourwebsite.com)
+Made with ❤️ by [trgcyln](https://turgay.io)
